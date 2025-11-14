@@ -1,0 +1,52 @@
+[
+  {
+     "id":1,
+    "name": "Apple",
+    "price": "$13.00",
+    "img": "./product-img/apple.png"
+   
+  },
+  {
+    "id":2,
+    "name": "Banana",
+    "price": "$12.00",
+    "img": "./product-img/banana.png"
+  },
+  {
+    "id":3,
+    "name": "Kiwi",
+    "price": "$9.00",
+    "img": "./product-img/kiwi.png"
+  }
+  ,
+  {
+    "id":4,
+    "name": "Tomato",
+    "price": "$10.00",
+    "img": "./product-img/tomato.png"
+  },
+  {
+    "id":5,
+    "name": "Milk",
+    "price": "$5.00",
+    "img": "./product-img/milk.png"
+  },
+  {
+    "id":6,
+    "name": "Spices",
+    "price": "$10.00",
+    "img": "./product-img/spices.png"
+  },
+  {
+    "id":7,
+    "name": "Cheese",
+    "price": "$15.00",
+    "img": "./product-img/cheese.png"
+  },
+  {
+    "id":8,
+    "name": "Water",
+    "price": "$3.00",
+    "img": "./product-img/water.png"
+  }
+]

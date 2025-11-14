@@ -1,0 +1,245 @@
+[
+  {
+     "id":1,
+    "name": "Apple",
+    "price": "$13.00",
+    "img": "./product-img/apple.png"
+   
+  },
+  {
+    "id":2,
+    "name": "Banana",
+    "price": "$12.00",
+    "img": "./product-img/banana.png"
+  },
+  {
+    "id":3,
+    "name": "Kiwi",
+    "price": "$9.00",
+    "img": "./product-img/kiwi.png"
+  }
+  ,
+  {
+    "id":4,
+    "name": "Tomato",
+    "price": "$10.00",
+    "img": "./product-img/tomato.png"
+  },
+  {
+    "id":5,
+    "name": "Milk",
+    "price": "$5.00",
+    "img": "./product-img/milk.png"
+  },
+  {
+    "id":6,
+    "name": "Spices",
+    "price": "$10.00",
+    "img": "./product-img/spices.png"
+  },
+  {
+    "id":7,
+    "name": "Cheese",
+    "price": "$15.00",
+    "img": "./product-img/cheese.png"
+  },
+  {
+    "id":8,
+    "name": "Water",
+    "price": "$3.00",
+    "img": "./product-img/water.png"
+  },
+  {
+    "id": 9,
+    "name": "Apple",
+    "price": "$2.5",
+    "img": "https://cdn.pixabay.com/photo/2014/02/01/17/28/apple-256261_1280.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Banana",
+    "price": "$1.2",
+    "img": "https://cdn.pixabay.com/photo/2018/03/27/18/07/bananas-3264188_1280.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Orange",
+    "price": "$2.0",
+    "img": "https://cdn.pixabay.com/photo/2017/01/20/15/06/oranges-1995056_1280.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Strawberry",
+    "price": "$3.5",
+    "img": "https://cdn.pixabay.com/photo/2017/01/12/15/06/strawberry-1970984_1280.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Mango",
+    "price": "$2.8",
+    "img": "https://cdn.pixabay.com/photo/2018/05/08/08/39/mango-3380634_1280.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Carrot",
+    "price": "$1.0",
+    "img": "https://cdn.pixabay.com/photo/2018/07/08/10/49/carrots-3529902_1280.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Tomato",
+    "price": "$1.5",
+    "img": "https://cdn.pixabay.com/photo/2016/03/05/19/02/tomatoes-1238255_1280.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Broccoli",
+    "price": "$2.3",
+    "img": "https://cdn.pixabay.com/photo/2016/04/13/20/42/broccoli-1322209_1280.jpg"
+  },
+  {
+    "id": 17,
+    "name": "Cucumber",
+    "price": "$1.1",
+    "img": "https://cdn.pixabay.com/photo/2016/03/05/22/56/cucumbers-1238258_1280.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Potato",
+    "price": "$0.9",
+    "img": "https://cdn.pixabay.com/photo/2015/03/26/09/54/potatoes-690739_1280.jpg"
+  },
+  {
+    "id": 19,
+    "name": "Spinach",
+    "price": "$1.7",
+    "img": "https://cdn.pixabay.com/photo/2018/02/16/14/28/spinach-3151542_1280.jpg"
+  },
+  {
+    "id": 20,
+    "name": "Grapes",
+    "price": "$3.0",
+    "img": "https://cdn.pixabay.com/photo/2016/09/02/22/25/grapes-1642523_1280.jpg"
+  },
+  {
+    "id": 21,
+    "name": "Blueberry",
+    "price": "$3.80",
+    "img": "https://cdn.pixabay.com/photo/2016/03/05/19/02/blueberries-1238258_1280.jpg"
+  },
+  {
+    "id": 22,
+    "name": "Cherry",
+    "price": "$4.50",
+    "img": "https://cdn.pixabay.com/photo/2016/06/20/06/17/cherries-1465800_1280.jpg"
+  },
+  {
+    "id": 23,
+    "name": "Pear",
+    "price": "$2.60",
+    "img": "https://cdn.pixabay.com/photo/2017/01/20/15/06/pears-1995053_1280.jpg"
+  },
+  {
+    "id": 24,
+    "name": "Kiwi",
+    "price": "$3.10",
+    "img": "https://cdn.pixabay.com/photo/2016/08/08/09/17/kiwi-1570196_1280.jpg"
+  },
+  {
+    "id": 25,
+    "name": "Peach",
+    "price": "$2.90",
+    "img": "https://cdn.pixabay.com/photo/2017/08/01/00/45/peaches-2562860_1280.jpg"
+  },
+  {
+    "id": 26,
+    "name": "Pomegranate",
+    "price": "$3.60",
+    "img": "https://cdn.pixabay.com/photo/2016/12/06/18/27/pomegranate-1886763_1280.jpg"
+  },
+  {
+    "id": 27,
+    "name": "Guava",
+    "price": "$2.40",
+    "img": "https://cdn.pixabay.com/photo/2020/03/12/16/17/guava-4924178_1280.jpg"
+  },
+  {
+    "id": 28,
+    "name": "Dragon Fruit",
+    "price": "$4.80",
+    "img": "https://cdn.pixabay.com/photo/2018/04/03/18/03/dragon-fruit-3285553_1280.jpg"
+  },
+  {
+    "id": 29,
+    "name": "Avocado",
+    "price": "$3.90",
+    "img": "https://cdn.pixabay.com/photo/2018/03/18/18/17/avocado-3233470_1280.jpg"
+  },
+  {
+    "id": 30,
+    "name": "Plum",
+    "price": "$2.70",
+    "img": "https://cdn.pixabay.com/photo/2017/07/31/21/06/plums-2557246_1280.jpg"
+  },
+  {
+    "id": 31,
+    "name": "Pumpkin",
+    "price": "$2.20",
+    "img": "https://cdn.pixabay.com/photo/2016/09/01/18/00/pumpkin-1635749_1280.jpg"
+  },
+  {
+    "id": 32,
+    "name": "Cabbage",
+    "price": "$1.80",
+    "img": "https://cdn.pixabay.com/photo/2017/06/02/18/24/cabbage-2369777_1280.jpg"
+  },
+  {
+    "id": 33,
+    "name": "Brinjal",
+    "price": "$1.50",
+    "img": "https://cdn.pixabay.com/photo/2018/07/03/18/38/eggplant-3516862_1280.jpg"
+  },
+  {
+    "id": 34,
+    "name": "Lettuce",
+    "price": "$1.90",
+    "img": "https://cdn.pixabay.com/photo/2018/04/29/18/08/lettuce-3359793_1280.jpg"
+  },
+  {
+    "id": 35,
+    "name": "Sweet Corn",
+    "price": "$2.10",
+    "img": "https://cdn.pixabay.com/photo/2015/07/17/13/44/corn-849356_1280.jpg"
+  },
+  {
+    "id": 36,
+    "name": "Beetroot",
+    "price": "$2.00",
+    "img": "https://cdn.pixabay.com/photo/2017/06/10/07/18/beetroot-2386784_1280.jpg"
+  },
+  {
+    "id": 37,
+    "name": "Green Beans",
+    "price": "$1.60",
+    "img": "https://cdn.pixabay.com/photo/2018/07/07/19/47/beans-3529443_1280.jpg"
+  },
+  {
+    "id": 38,
+    "name": "Radish",
+    "price": "$1.50",
+    "img": "https://cdn.pixabay.com/photo/2018/02/14/10/14/radish-3151583_1280.jpg"
+  },
+  {
+    "id": 39,
+    "name": "Bitter Gourd",
+    "price": "$1.40",
+    "img": "https://cdn.pixabay.com/photo/2021/01/12/09/25/bitter-gourd-5909843_1280.jpg"
+  },
+  {
+    "id": 40,
+    "name": "Okra",
+    "price": "$1.70",
+    "img": "https://cdn.pixabay.com/photo/2018/07/08/10/47/okra-3529897_1280.jpg"
+  }
+
+]

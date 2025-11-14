@@ -1,0 +1,32 @@
+[
+  {
+    "id":4,
+    "name": "Tomato",
+    "price": "$10.00",
+    "img": "./product-img/tomato.png"
+  },
+  {
+    "id":5,
+    "name": "Milk",
+    "price": "$5.00",
+    "img": "./product-img/milk.png"
+  },
+  {
+    "id":6,
+    "name": "Spices",
+    "price": "$10.00",
+    "img": "./product-img/spices.png"
+  },
+  {
+    "id":7,
+    "name": "Cheese",
+    "price": "$15.00",
+    "img": "./product-img/cheese.png"
+  },
+  {
+    "id":8,
+    "name": "Water",
+    "price": "$3.00",
+    "img": "./product-img/water.png"
+  }
+]
