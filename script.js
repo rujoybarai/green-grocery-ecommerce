@@ -27,10 +27,27 @@ const productSection =document.querySelector(".product-section");
    proCard.appendChild(H3);
    proCard.appendChild(P3);
    proCard.appendChild(Btn);
+   
 
+   addNotify(Btn);
    
  }
+ const cartBtn =document.querySelector(".cart");
+ cartBtn.addEventListener("click",()=>{
+   alert("coming soon ! 👷")
+ });
 
+
+ const addNotify=(Btn)=>{
+   Btn.addEventListener("click",()=>{
+    Btn.style.backgroundColor="green";
+    Btn.innerText="Added ";
+      const cartH1=document.createElement("h1");
+      cartH1.textContent="!";
+    cartBtn.appendChild(cartH1);
+   
+   })
+ }
 
 
 
@@ -83,7 +100,7 @@ const aboutBtn=document.querySelector(".about");
 
 aboutBtn.addEventListener("click", (e)=>{
   e.preventDefault();
-  alert("This page is unavailable currently");
+  alert("This page is unavailable currently 👷");
 });
 
 //shoop-now//
@@ -104,16 +121,18 @@ shopNowBtn2.addEventListener("click", (e)=>{
 
 const menuBtn =document.querySelector(".menu");
 const cartImg =document.querySelector(".cart img");
+
 const Login =document.querySelector(".log");
 const Reg =document.querySelector(".reg");
 
 menuBtn.addEventListener("click", (e)=>{
 
+  
   cartImg.classList.toggle("menu-ac");
-
+ 
   Login.classList.toggle("menu-ac");
-
   Reg.classList.toggle("menu-ac");
+
 });
 
 

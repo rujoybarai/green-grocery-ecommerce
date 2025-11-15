@@ -126,11 +126,18 @@ h1 img{
   display: flex;
   align-items: center;
   justify-content: center;
+  position: relative;
 }
 .cart img{
   width: 30px;
   height: 30px;
   object-fit: cover;
+}
+.cart h1{
+  position: absolute;
+  left: 5px;
+  top: -7px;
+  color: rgb(205, 3, 3);
 }
 .cart:active{
   opacity: 0.7;
@@ -830,6 +837,7 @@ font-weight: 600;
   .cart{
     visibility: hidden;
   }
+ 
   .AC {
     display: flex;
     justify-content: center;
